@@ -141,14 +141,14 @@ class exp_runner():
     2. FedSim (10) & AVGsim (14) & Top1Sim (15)
     3. HSTFL-DP8 (2.1)
     4. HSTFL (2)
-    5. SL-FDML (13)
-    6. SL-SplitNN (7)
+    5. FL-FDML (13)
+    6. FL-SplitNN (7)
     
     Ablation study:
-    1. HSTFL- NoPVFSRL (9)
-    2. HSTFL- NoMLR (9)
-    3. HSTFL- NoMA (12)
-    4. HSTFL- NoVNA (4)
+    1. variant 1(9)
+    2. variant 2 (9)
+    3. variant 3 (12)
+    4. variant 4 (4)
 
     Module agnostic evaluation
     1. Spatial modules (6)
